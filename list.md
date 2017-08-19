@@ -10,4 +10,5 @@
 #### David de Jhesus Vargas Banda / 20147844 / DavidVaba
 #### Carlos Enrique Pizano Saucedo / 20116875 / Pizano/
 #### Alma Rosa Tafolla García / 20147843/ Evishady
-
+#### Cristian Eduardo Ortiz Ochoa / 20124725 / cris9977/
+#### Carlos Eduardo Huerta Romero / 20118122 / Aaron1412/
