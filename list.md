@@ -8,3 +8,6 @@
 #### Ulises Esaú García Urzúa / 20096428 / neuville11
 #### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-
 #### David de Jhesus Vargas Banda / 20147844 / DavidVaba
+#### Carlos Enrique Pizano Saucedo / 20116875 / Pizano/
+#### Alma Rosa Tafolla García / 20147843/ Evishady
+
