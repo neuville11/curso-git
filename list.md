@@ -7,3 +7,4 @@
 #### Luis Roberto Meneses Mora/20066070/Cornual
 #### Andrea Muñoz Liy / 20138123 / andreaml
 #### Cristian Eduardo Ortiz Ochoa / 20124725 / cris9977/
+#### Carlos Eduardo Huerta Romero / 20118122 / Aaron1412/
