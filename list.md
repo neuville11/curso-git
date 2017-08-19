@@ -1,5 +1,5 @@
 ### NOMBRE / No. CTA / github user/
-#### Carlos Enrique Pizano Saucedo / 20116875 / Pizano/
+#### José Noé Vázquez Gutiérrez / 20137673 / noevazz
 #### Alma Rosa Tafolla García / 20147843/ Evishady
 #### Ulises Esaú García Urzúa / 20096428 / neuville11
 #### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-11
