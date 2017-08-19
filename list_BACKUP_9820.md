@@ -1,6 +1,5 @@
 ### NOMBRE / No. CTA / github user/
 <<<<<<< HEAD
-<<<<<<< HEAD
 #### Alma Rosa Tafolla García / 20147843/ Evishady
 #### Ulises Esaú García Urzúa / 20096428 / neuville11
 ### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-11
@@ -10,17 +9,8 @@
 Cristian Eduardo Ortiz Ochoa / 20124725 / cris9977/
 #### Ulises Esaú García Urzúa / 20096428 / neuville11
 ### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-11
-=======
-#### Luis Roberto Meneses Mora/20066070/Cornual
->>>>>>> 483be0d8833d2b9f00ca4172c82fccdee5f1afd1
 #### Andrea Muñoz Liy / 20138123 / andreaml
-#### Cristian Eduardo Ortiz Ochoa / 20124725 / cris9977/
 #### Ulises Esaú García Urzúa / 20096428 / neuville11
-<<<<<<< HEAD
 ### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-11
 #### David de Jhesus Vargas Banda / 20147844 / DavidVaba
 >>>>>>> 55cf0d24082bb3d905843f23066aa48b6b367306
-=======
-#### Ozmar Humberto Ugarte Saucedo / 20094896 / ozmar-11
-#### David de Jhesus Vargas Banda / 20147844 / DavidVaba
->>>>>>> 483be0d8833d2b9f00ca4172c82fccdee5f1afd1
